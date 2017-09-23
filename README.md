@@ -65,6 +65,7 @@ Up to now there are following basic metal profiles available:
 ## References
 
 * http://www.openscad.org/
+* https://www.thingiverse.com/thing:2550584
 
 ## Authors:
 
